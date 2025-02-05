@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\Assignment\NCTR.M.A02\NCTR.M.A02.Ex01\bin\Debug\net9.0\NCTR.M.A02.Ex01.exe
+C:\Users\ADMIN\Desktop\Assignment\NCTR.M.A02\NCTR.M.A02.Ex01\bin\Debug\net9.0\NCTR.M.A02.Ex01.deps.json
+C:\Users\ADMIN\Desktop\Assignment\NCTR.M.A02\NCTR.M.A02.Ex01\bin\Debug\net9.0\NCTR.M.A02.Ex01.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Assignment\NCTR.M.A02\NCTR.M.A02.Ex01\bin\Debug\net9.0\NCTR.M.A02.Ex01.dll
+C:\Users\ADMIN\Desktop\Assignment\NCTR.M.A02\NCTR.M.A02.Ex01\bin\Debug\net9.0\NCTR.M.A02.Ex01.pdb
+C:\Users\ADMIN\Desktop\Assignment\NCTR.M.A02\NCTR.M.A02.Ex01\obj\Debug\net9.0\NCTR.M.A02.Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Assignment\NCTR.M.A02\NCTR.M.A02.Ex01\obj\Debug\net9.0\NCTR.M.A02.Ex01.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Assignment\NCTR.M.A02\NCTR.M.A02.Ex01\obj\Debug\net9.0\NCTR.M.A02.Ex01.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Assignment\NCTR.M.A02\NCTR.M.A02.Ex01\obj\Debug\net9.0\NCTR.M.A02.Ex01.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Assignment\NCTR.M.A02\NCTR.M.A02.Ex01\obj\Debug\net9.0\NCTR.M.A02.Ex01.dll
+C:\Users\ADMIN\Desktop\Assignment\NCTR.M.A02\NCTR.M.A02.Ex01\obj\Debug\net9.0\refint\NCTR.M.A02.Ex01.dll
+C:\Users\ADMIN\Desktop\Assignment\NCTR.M.A02\NCTR.M.A02.Ex01\obj\Debug\net9.0\NCTR.M.A02.Ex01.pdb
+C:\Users\ADMIN\Desktop\Assignment\NCTR.M.A02\NCTR.M.A02.Ex01\obj\Debug\net9.0\NCTR.M.A02.Ex01.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Assignment\NCTR.M.A02\NCTR.M.A02.Ex01\obj\Debug\net9.0\ref\NCTR.M.A02.Ex01.dll
